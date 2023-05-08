@@ -1,0 +1,46 @@
+{
+    "data":[
+        {
+            "id": 1,
+            "stack": "HTML, CSS, Javascript",
+            "imgUrl":  "https://i.ibb.co/ctjYQhT/screencapture-ugochukwupeter-github-io-ark-stewart-co-2023-05-06-08-32-21.png",
+            "desc" : "Ark-Stewart and Co. Legal Practice Page",
+            "url": "https://ugochukwupeter.github.io/ark-stewart-co/"
+        },
+        {
+            "id": 2,
+            "stack": "HTML, CSS, Javascript",
+            "imgUrl":  "https://i.ibb.co/gWDwKjf/screencapture-ugochukwupeter-github-io-blogr-landing-page-main-2023-05-06-09-01-26-1.png",
+            "desc" : "blogr-landing-page-main",
+            "url": "https://ugochukwupeter.github.io/blogr-landing-page-main/"
+        },
+        {
+            "id": 3,
+            "stack": "HTML, CSS, Javascript",
+            "imgUrl":  "https://i.ibb.co/yFTffJ4/screencapture-ugochukwupeter-github-io-news-homepage-main-2023-05-07-01-48-54-1.png",
+            "desc" : "news-homepage-main",
+            "url": "https://ugochukwupeter.github.io/news-homepage-main/"
+        },
+        {
+            "id": 4,
+            "stack": "HTML, CSS, Javascript",
+            "imgUrl":  "https://i.ibb.co/bJ496t0/screencapture-ugochukwupeter-github-io-Interactive-rating-2023-05-07-02-02-24.png",
+            "desc" : "Interactive-rating Page",
+            "url": "https://ugochukwupeter.github.io/Interactive-rating/"
+        },
+        {
+            "id": 5,
+            "stack": "HTML, CSS, Javascript",
+            "imgUrl":  "https://i.ibb.co/smPv6DZ/screencapture-ugochukwupeter-github-io-age-calculator-app-main-2023-05-07-02-05-24-1.png",
+            "desc" : "age-calculator-app",
+            "url": "https://ugochukwupeter.github.io/age-calculator-app-main/"
+        },
+        {
+            "id": 6,
+            "stack": "HTML, CSS, Javascript",
+            "imgUrl":  "https://i.ibb.co/dPbH1fM/screencapture-ugochukwupeter-github-io-gpacalculator-github-io-2023-05-07-02-14-20-1.png",
+            "desc" : "GPA Calculator",
+            "url": "https://ugochukwupeter.github.io/gpacalculator.github.io/"
+        }
+    ]
+}
